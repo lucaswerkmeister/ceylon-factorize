@@ -1,0 +1,9 @@
+/classes
+/modules
+
+/.idea
+/*.iml
+
+# backup files
+*~
+\#*
